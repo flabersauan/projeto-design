@@ -68,10 +68,9 @@ main{
 }
 .bloco{
     width: 70%;
+    height: 400px;
     display: flex;
     gap: 20px;
-    flex: 1;
-    height: auto;
 }
 .informacion_1{
     display: flex;
@@ -109,5 +108,5 @@ main{
 }
 .bloco:hover{
     height: 500px;
-    transition: 0.5s 0.5s;
+    transition: 0.5s;
 }
